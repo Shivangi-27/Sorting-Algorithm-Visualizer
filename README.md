@@ -57,8 +57,8 @@ The design of the app was largely inspired by Google's [Material Design Guidelin
 
 The app is responsive, meaning it works across a variety of screen sizes and dimensions.
 
-![![Light mode](https://github.com/Shivangi-27/Sorting-Algorithm-Visualizer/blob/master/public/Light%20mode.png)](https://sorting-algo-visualization.herokuapp.com/)
+![Sorting Algorithm Visualizer - light mode](https://github.com/Shivangi-27/Sorting-Algorithm-Visualizer/blob/master/public/Light%20mode.png)
 
 The app has a switch for turning on dark mode.
 
-![Sorting Algorithm Visualizer - dark mode](https://github.com/Shivangi-27/Sorting-Algorithm-Visualizer/blob/master/public/Dark%20m%2Code.png)(https://sorting-algo-visualization.herokuapp.com/)
+![Sorting Algorithm Visualizer - dark mode](https://github.com/Shivangi-27/Sorting-Algorithm-Visualizer/blob/master/public/Dark%20m%2Code.png)
